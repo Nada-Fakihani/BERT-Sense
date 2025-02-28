@@ -24,33 +24,6 @@ This project applies **Natural Language Processing (NLP)** and **Deep Learning**
 - **Visualization**: Matplotlib, Seaborn
 - **Modeling**: BERT, SVM, Random Forest, XGBoost, LightGBM, Stacking Classifier
 
-## 🔧 Installation
-To run the project, install the dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-## 📂 Project Structure
-```
-SentBERT-NLP/
-│-- data/                  # Dataset files (not included in repo)
-│-- notebooks/             # Jupyter notebooks for analysis
-│-- src/                   # Python scripts for preprocessing & training
-│-- models/                # Saved trained models
-│-- README.md              # Project documentation
-│-- requirements.txt       # Dependencies
-```
-
-## 🎯 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/SentBERT-NLP.git
-   ```
-2. Navigate into the project directory:
-   ```bash
-   cd SentBERT-NLP
-   ```
-3. Run the notebook or scripts for training and evaluation.
 
 ## 📈 Results & Findings
 - **Model Performance:**
