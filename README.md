@@ -1,4 +1,4 @@
-# SentBERT-NLP: BERT-powered Sentiment Analysis
+# BERT-Sense-NLP: BERT-powered Sentiment Analysis
 
 ## 📌 Project Overview
 This project applies **Natural Language Processing (NLP)** and **Deep Learning** to analyze sentiment in tweets using the **SMILE Twitter Emotion dataset**. The goal is to classify emotions expressed in tweets related to museum experiences using **BERT-based models** and traditional Machine Learning approaches.
