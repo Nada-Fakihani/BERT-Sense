@@ -4,7 +4,7 @@
 This project applies **Natural Language Processing (NLP)** and **Deep Learning** to analyze sentiment in tweets using the **SMILE Twitter Emotion dataset**. The goal is to classify emotions expressed in tweets related to museum experiences using **BERT-based models** and traditional Machine Learning approaches.
 
 ## 📊 Dataset: SMILE Twitter Emotion Dataset
-- **Source:** SMILE Project ([culturesmile.org](http://www.culturesmile.org))
+- **Source:** SMILE Project 
 - **Size:** 3,085 tweets
 - **Emotions:** Anger, Disgust, Happiness, Surprise, Sadness
 - **Timeframe:** Collected between May 2013 and June 2015
