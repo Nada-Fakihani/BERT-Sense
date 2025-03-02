@@ -46,4 +46,4 @@ This project applies **Natural Language Processing (NLP)** and **Deep Learning**
 ## 🏆 Credits & Citation
 Dataset by Bo Wang, Adam Tsakalidis, Maria Liakata, Arkaitz Zubiaga, Rob Procter, and Eric Jensen.
 
-📢 **Feel free to contribute!** Fork, star, and submit pull requests. 🚀
+📢 **Feel free to contribute!** Fork, star, and submit pull requests.   🚀
